@@ -1,17 +1,20 @@
 # NWB file
-/human-cortical-organoid-signal-analysis/phase_space_metric/data1.nwb
+data1.nwb
 
 # Numpy and CSV files
-/human-cortical-organoid-signal-analysis/phase_space_metric/TimeSeries_amp_settle_stimulus.npy
-/human-cortical-organoid-signal-analysis/phase_space_metric/TimeSeries_analog_output_acquisition.npy
-/human-cortical-organoid-signal-analysis/phase_space_metric/TimeSeries_charge_recovery_stimulus.npy
-/human-cortical-organoid-signal-analysis/phase_space_metric/TimeSeries_compliance_limit_stimulus.npy
-/human-cortical-organoid-signal-analysis/phase_space_metric/TimeSeries_digital_input_acquisition.npy
-/human-cortical-organoid-signal-analysis/phase_space_metric/TimeSeries_stimulation_stimulus.np
-/human-cortical-organoid-signal-analysis/phase_space_metric/ElectricalSeries_acquisition.npy
+TimeSeries_amp_settle_stimulus.npy
+TimeSeries_analog_output_acquisition.npy
+TimeSeries_charge_recovery_stimulus.npy
+TimeSeries_compliance_limit_stimulus.npy
+TimeSeries_digital_input_acquisition.npy
+TimeSeries_stimulation_stimulus.np
+ElectricalSeries_acquisition.npy
 
 # Text files
-/human-cortical-organoid-signal-analysis/phase_space_metric/*.txt
+phase_space_metric_ttest_explanation.txt
+/human-cortical-organoid-signal-analysis/Ideas
 
 # RHS files
-/human-cortical-organoid-signal-analysis/phase_space_metric/data1.rhs
+data1.rhs
+
+
