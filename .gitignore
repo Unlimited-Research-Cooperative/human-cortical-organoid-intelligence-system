@@ -12,7 +12,8 @@ ElectricalSeries_acquisition.npy
 
 # Text files
 phase_space_metric_ttest_explanation.txt
-/human-cortical-organoid-signal-analysis/Ideas
+Ideas/
+
 
 # RHS files
 data1.rhs

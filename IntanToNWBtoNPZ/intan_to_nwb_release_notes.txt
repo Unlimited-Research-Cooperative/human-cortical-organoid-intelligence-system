@@ -1,0 +1,15 @@
+Intan to NWB release notes
+-----------------------
+
+* Beta Version, 4 November 2021
+- First release.
+
+* Version 1.0, 25 February 2022
+- Added optional parameter "settings_filename" to convert_to_nwb() function that loads all settings from an .xlsx file, ignoring all other parameters.
+- Added UI elements to "Advanced" section to allow settings file configuration within Jupyter Notebook.
+- Added optional parameter "nwb_filename" to convert_to_nwb() function that specifies the name of the output .nwb file.
+- Added UI elements to allow nwb filename configuration within Jupyter Notebook.
+- Added more informative error message if the input filename the user provides is not a .rhd or .rhs file (for example, .dat files that should not be included in this field)
+- Added optional parameter "session_description" to convert_to_nwb() function that allows a specific session description to be written, instead of implied from Note1 + Note2 + Note3 of Intan file.
+- Reorganized convert_to_nwb() arguments for clarity.
+- Added estimated completion time information to the status report that occurs at the end of each chunk's conversion.
