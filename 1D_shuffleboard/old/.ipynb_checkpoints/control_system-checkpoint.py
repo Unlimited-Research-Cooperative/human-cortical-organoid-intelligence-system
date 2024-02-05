@@ -1,4 +1,4 @@
-from organoid_interface import OrganoidInterface
+from neural_interface import NeuralInterface
 from game_logic import shuffleboard_game
 from game_state import GameState
 

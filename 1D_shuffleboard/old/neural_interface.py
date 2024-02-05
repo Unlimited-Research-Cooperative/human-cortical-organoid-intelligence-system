@@ -1,4 +1,4 @@
-class OrganoidInterface:
+class NeuralInterface:
     def __init__(self):
         # Initialize interface parameters
         pass
