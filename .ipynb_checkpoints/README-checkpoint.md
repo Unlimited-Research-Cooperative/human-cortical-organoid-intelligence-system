@@ -21,7 +21,7 @@ The FinalSpark subsystem focuses on the statistical analysis of human cortical s
   <img src="https://raw.githubusercontent.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis/main/images/data.png" alt="human cortical spheroid neural data">
 </p>
 
-### Organoids - Myelin Lab's Opto Dishbrain
+### Organoids -  [Myelin Lab's Opto Dishbrain at University of Michigan](https://maizepages.umich.edu/organization/MYELIN/)
 Myelin Lab and Synthetic Intelligence Labs
 
 The Myelin Lab's Opto Dishbrain project is an innovative exploration of human cortical organoids using optogenetics, aiming to dissect the mysteries of neural activation and responses.
