@@ -32,6 +32,7 @@ The Myelin Lab's Opto Dishbrain project is an innovative exploration of human co
   <img src="https://raw.githubusercontent.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis/main/images/PCB_design_pic.png" alt="pcb design mea">
 </p>
 
+
 [Opto Stim Beginning Testing Video](https://drive.google.com/file/d/1IG_Nn1mMazlEHEnXwtUJZudlBmlrKjyy/view?usp=sharing
 )
 #### Project Highlights:
@@ -46,7 +47,6 @@ We're more than a project; we're a movement. Let's make history together. [Get i
 For collaborations, press inquiries, or questions:
 - Email: [soul.syrup@yandex.com](mailto:soul.syrup@yandex.com) or [soul.syrupp@gmail.com](mailto:soul.syrupp@gmail.com)
 - Discord: soul_syrup
-- TikTok: [@soul.syrup](https://www.tiktok.com/@soul.syrup)
 
 ## 📚 Library Testing Invitation
 We invite you to test our PyPI library for human brain cortical organoid/spheroid, EEG, ECoG, and other signal analyses:
