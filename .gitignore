@@ -25,3 +25,9 @@ analysis_experiments/pre_stim_embedding_data/2dembedded_Ch*.npy
 analysis_experiments/pre_stim_embedding_data/3dembedded_Ch*.npy
 analysis_experiments/post_stim_embedding_data/
 experiment_data/pre_post_split
+
+
+# Large zipped files
+2d_embedded_data.zip
+3d_embedded_data.zip
+
