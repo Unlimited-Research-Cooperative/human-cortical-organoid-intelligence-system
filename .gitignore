@@ -14,10 +14,14 @@ ElectricalSeries_acquisition.npy
 phase_space_metric_ttest_explanation.txt
 Ideas/
 
-
 # RHS files
 data1.rhs
 
-
 # Experiment Data files
-experiment_data/
+experiment_data/exp_240213_151732.rhs
+
+# Large numpy files
+analysis_experiments/pre_stim_embedding_data/2dembedded_Ch*.npy
+analysis_experiments/pre_stim_embedding_data/3dembedded_Ch*.npy
+analysis_experiments/post_stim_embedding_data/
+experiment_data/pre_post_split
