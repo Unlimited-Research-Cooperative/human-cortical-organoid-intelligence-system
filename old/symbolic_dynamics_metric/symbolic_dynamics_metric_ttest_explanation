@@ -1,0 +1,35 @@
+Symbolic Dynamics Analysis for Human Cortical Spheroids
+
+Objective: To investigate the learning capabilities of human cortical spheroids in response to electrical stimulations, using Symbolic Dynamics as a metric.
+
+Overview of Symbolic Dynamics:
+Symbolic Dynamics is a method used in nonlinear dynamics and time series analysis. It involves converting continuous or complex data into a sequence of symbols according to specific rules. This approach simplifies the analysis of the system's dynamics while preserving essential information about its behavior.
+
+Application in Cortical Spheroids Analysis:
+
+    Data Recording: Collect electrophysiological data from the cortical spheroids, both before (baseline) and after electrical stimulation (response).
+    Symbolic Transformation: Convert the continuous electrophysiological signals into discrete symbolic sequences. This is typically done by partitioning the data space into regions and assigning a unique symbol to each region. For instance, voltage levels or firing rates can be categorized into high, medium, and low states.
+    Pattern Analysis: Analyze these symbolic sequences to identify patterns or changes in the dynamics of the cortical spheroids. Look for alterations in the frequency or sequences of symbols that may indicate a response or adaptation due to stimulation.
+
+Metric Extraction for Statistical Testing:
+
+    Quantification of Changes: Quantify the changes in the symbolic sequences before and after stimulation. This could involve measuring the frequency of certain symbol patterns, the emergence of new patterns, or changes in the entropy of the sequences.
+    Preparation for Paired t-test: For each spheroid, calculate a specific metric (e.g., change in pattern frequency, entropy variation) that represents the difference in its symbolic dynamics before and after stimulation.
+
+Paired t-test for Statistical Significance:
+
+    Rationale: A paired t-test is ideal for comparing the metrics of the same spheroid before and after stimulation, as it accounts for the paired nature of the data.
+    Implementation: Apply the paired t-test to the calculated metrics. This test will determine if the changes observed in the symbolic dynamics of the spheroids post-stimulation are statistically significant compared to their pre-stimulation state.
+
+sample.ipynb Integration with Symbolic Dynamics:
+
+    Spike Event Data for Symbolic Conversion: The retrieval of spike events and their timing (df_spike_event) can be the basis for converting continuous electrophysiological data into symbolic sequences.
+
+    Analyzing Changes in Spike Patterns: The detailed spike data can be used to observe changes in firing patterns or frequencies, which can be symbolically encoded to analyze learning effects.
+
+    Visualization for Pattern Recognition: Visualization techniques demonstrated in the notebook could aid in identifying patterns or changes in symbolic sequences, especially when comparing pre- and post-stimulation data.
+
+    Channel-Specific Analysis: The ability to analyze data channel-wise (as seen in plot_raw_channel) could be advantageous in symbolic dynamics analysis, especially if different channels represent different aspects of the spheroids' response.
+    
+Conclusion and Interpretation:
+A statistically significant result from the paired t-test would suggest that the electrical stimulation has a measurable impact on the dynamics of the cortical spheroids, indicative of learning or adaptation processes. Symbolic Dynamics provides a robust framework for converting complex neurophysiological data into a more analyzable form, facilitating the understanding of how neuronal systems process and respond to external stimuli at a fundamental level.
