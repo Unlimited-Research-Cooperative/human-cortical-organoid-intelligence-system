@@ -18,13 +18,16 @@ Ideas/
 data1.rhs
 
 # Experiment Data files
-experiment_data/exp_240213_151732.rhs
+analysis_experiments/experiment_data/exp_240213_151732.rhs
+load_intan_rhs_format/sampledata.rhs
 
 # Large numpy files
 analysis_experiments/pre_stim_embedding_data/2dembedded_Ch*.npy
 analysis_experiments/pre_stim_embedding_data/3dembedded_Ch*.npy
 analysis_experiments/post_stim_embedding_data/
 experiment_data/pre_post_split
+2d_embedding_data/
+analysis_experiments/experiment_data
 
 
 # Large zipped files
