@@ -39,6 +39,7 @@ experiment_data/
 3d_embedded_data.zip
 
 # Ignore IPython notebook checkpoints
+ipynb_checkpoints_list.ipynb
 .ipynb_checkpoints/
 analysis_experiments/experiment_data/.ipynb_checkpoints/
 analysis_experiments/experiment_data/phase_space_reconstruction/.ipynb_checkpoints/
