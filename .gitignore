@@ -27,9 +27,9 @@ analysis_experiments/pre_stim_embedding_data/3dembedded_Ch*.npy
 analysis_experiments/post_stim_embedding_data/
 experiment_data/pre_post_split
 2d_embedding_data/
-analysis_experiments/experiment_data
+analysis_experiments/experiment_data/
 experiment_data/exp_240314_090449.rhs
-
+experiment_data/
 
 # Large zipped files
 2d_embedded_data.zip
