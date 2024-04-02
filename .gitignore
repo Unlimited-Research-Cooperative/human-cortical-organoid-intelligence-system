@@ -37,3 +37,12 @@ experiment_data/
 
 2d_embedded_data.zip
 3d_embedded_data.zip
+
+# Ignore IPython notebook checkpoints
+.ipynb_checkpoints/
+analysis_experiments/experiment_data/.ipynb_checkpoints/
+analysis_experiments/experiment_data/phase_space_reconstruction/.ipynb_checkpoints/
+analysis_experiments/experiment_data/pre_post_split/.ipynb_checkpoints/
+analysis_experiments/experiments/.ipynb_checkpoints/
+load_intan_rhs_format/intanutil/.ipynb_checkpoints/
+stimulation_experiments/neuromimetic_stimulation/.ipynb_checkpoints/
